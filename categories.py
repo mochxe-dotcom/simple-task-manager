@@ -10,3 +10,5 @@ class CategoryManager:
         print("Доступные категории:")
         for i, category in enumerate(self.categories, 1):
             print(f"{i}, {category}")
+
+"""Some changes in main"""
