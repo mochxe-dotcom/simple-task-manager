@@ -11,4 +11,4 @@ class CategoryManager:
         for i, category in enumerate(self.categories, 1):
             print(f"{i}, {category}")
 
-"""Some changes in feature"""
+"""Some changes in main"""
